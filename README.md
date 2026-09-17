@@ -1,11 +1,6 @@
 # Hi, I'm Ruhama 👋
 
-🎓 Information Science Student
-💻 Aspiring Full-Stack Web Developer
-🌱 Currently focusing on React, Node.js, Express.js & MongoDB
-🚀 Building practical web applications
-📍 Ethiopia
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=false&vCenter=true&width=600&lines=🎓+Information+Science+Student;💻+Aspiring+Full-Stack+Web+Developer;🌱+Currently+focusing+on+React%2C+Node.js%2C+Express.js+%26+MongoDB;🚀+Building+practical+web+applications;📍+Ethiopia)](https://git.io/typing-svg)
 ## 🛠️ Technologies & Languages
 
 * HTML
