@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Ruhama
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&duration=3000\&pause=1000\&center=false\&vCenter=true\&width=700\&lines=🎓+Information+Science+Student;💻+Aspiring+Full-Stack+Web+Developer;🌱+Currently+focusing+on+React%2C+Node.js%2C+Express.js+%26+MongoDB;🚀+Building+practical+web+applications;📍+Ethiopia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ruhama+%F0%9F%91%8B;🎓+Information+Science+Student;💻+Aspiring+Full-Stack+Web+Developer;🌱+Currently+focusing+on+React%2C+Node.js%2C+Express.js+%26+MongoDB;🚀+Building+practical+web+applications)](https://git.io/typing-svg)
 
 ## 🌸 About Me
 
