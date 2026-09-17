@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Ruhama 👋
 
-<!--
-**ruminagetachew-dot/ruminagetachew-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Science Student
+💻 Aspiring Full-Stack Web Developer
+🌱 Currently focusing on React, Node.js, Express.js & MongoDB
+🚀 Building practical web applications
+📍 Ethiopia
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML
+* CSS
+* JavaScript
+* React
+* Node.js
+* Express.js
+* MongoDB
+* PHP
+* Java
+* Git & GitHub
+
+## 🚀 Current Focus
+
+I'm currently strengthening my full-stack web development skills and building practical projects to prepare for my career as a developer.
+
+## 📌 Featured Project
+
+**Web-Based Citizen Complaint Management System for Adama City Administration**
+
+A full-stack web application developed as part of my practical attachment to support the submission, tracking, and management of citizen complaints.
+
+## 📫 Connect With Me
+
+* GitHub: [@ruminagetachew-dot](https://github.com/ruminagetachew-dot)
