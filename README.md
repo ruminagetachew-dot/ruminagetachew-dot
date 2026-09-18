@@ -32,8 +32,6 @@ Currently, I'm focused on strengthening my full-stack development skills.
 
 ### ☕ Programming
 
-### ☕ Programming
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
@@ -64,9 +62,8 @@ Currently, I'm focused on strengthening my full-stack development skills.
 
 ---
 
-## 💻 Featured Project
-
-### 🏛️ Web-Based Citizen Complaint Management System for Adama City Administration
+## 💻  Current Project
+🏛️ Web-Based Citizen Complaint Management System for Adama City Administration
 
 A full-stack web application developed as part of my practical attachment to support the submission, tracking, and management of citizen complaints.
 
