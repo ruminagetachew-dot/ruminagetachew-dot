@@ -1,4 +1,4 @@
-<div style="background-color: #000000; color: #FFFFFF; padding: 30px;">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=5000&pause=1500&color=FFFFFF&background=000000&center=true&vCenter=true&width=1200&height=80&lines=Hi%2C+I%27m+Ruhama+%F0%9F%91%8B;Information+Science+Student;Aspiring+Full-Stack+Web+Developer;Currently+focusing+on+React%2C+Node.js%2C+Express.js+and+MongoDB;Building+practical+web+applications;Ethiopia)](https://git.io/typing-svg)
 
 
@@ -103,4 +103,4 @@ I'm continuously improving my skills in:
 ### ✨ Thanks for visiting my profile!
 
 ⭐ Feel free to explore my repositories and projects.
-</div>
+
